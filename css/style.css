@@ -1,0 +1,40 @@
+
+*{
+    margin: 10;
+}
+ body{
+    font-family: Verdana, Geneva, sans-serif;
+    text-align: 18px;
+    font-weight: 900px;
+
+};
+ 
+h1 {
+    font-size: 37px;
+    line-height: 46px;
+    font-family: tahoma,helvetica,sans-serif;
+    color: #000000;
+}
+
+h2 {
+    font-size: 25px;
+    line-height: 38px;
+    font-family: tahoma,helvetica,sans-serif;
+}
+
+h3 { 
+    font-size: 18px;
+    color:rgba(0, 0, 0, 0.795);
+}
+p{
+    font-size: 18px;
+    line-height: 27px;
+    color: 333;
+}
+
+ul{
+    font-family: Verdana,sans-serif;
+    text-decoration: black;
+}
+
+
